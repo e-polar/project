@@ -101,3 +101,7 @@ a {
     background-color: #eeeeee !important;
     width: 85% !important;
 }
+
+.materialboxed{
+  display: inline-block !important;
+}
