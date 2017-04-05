@@ -54,6 +54,10 @@
     margin-top: 30px;
 }
 
+#map {
+    height: 300px;
+}
+
 footer.page-footer {
     background-color: #bdc3c7;
     padding-top: 0 !important;
